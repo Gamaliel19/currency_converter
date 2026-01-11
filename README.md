@@ -229,7 +229,7 @@ Ce projet est à usage éducatif et professionnel.
 
 ## 👨‍💻 Auteur
 
-Projet d'architecture Clean Architecture pour Flutter
+Ing. YAGALI NAFOU GAMALIEL
 
 ---
 
